@@ -11,4 +11,7 @@ def print_pascal_pyramid(rows):
             print(pascal(n, k), end=" ")
         print()
 
+
 print_pascal_pyramid(5)
+
+#can add GUI/animation to make it appealing
